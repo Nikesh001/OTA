@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <santoni>
-            <Filename>RR-N-v5.8.4-20170828-santoni-Official.zip</Filename>
+            <Filename>RR-N-v5.8.5-20170929-santoni-Final.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/santoni/RR-N-v5.8.4-20170828-santoni-official.zip/download</RomUrl>
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix/files/santoni/RR-N-v5.8.5-20170929-santoni-Final.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
