@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+<RomName>Nitrogen-OS</RomName>
+<VersionName>Nitrogen-OS-O-santoni-20180213</VersionName>
+<VersionNumber type="integer">20180213</VersionNumber>
+<DirectUrl><![CDATA[https://downloads.sourceforge.net/project/nitrogen-project/santoni/Nitrogen-OS-O-santoni-20180213.zip]]></DirectUrl>
+<HttpUrl><![CDATA[https://sourceforge.net/projects/nitrogen-project/files/santoni/Nitrogen-OS-O-santoni-20180213.zip/download]]></HttpUrl>
+<Android>8.1.0</Android>
+<CheckMD5>e1c4b14cc4e9e04535b8bf6f8d53f868</CheckMD5>
+<FileSize type="integer">470662689</FileSize>
+<Developer><![CDATA[NikeshKataria]]></Developer>
+<DonateURL><![CDATA[https://paypal.me/NikeshKataria]]></DonateURL>
+<Changelog>
+<![CDATA[
+13/02/2018
+
+-OTA updater added
+-Kernel upstream to 3.18.94
+-Fixed Time services
+-Performance Improvement
+-Fixed Headphones bug
+-Merged February Security patch
+-Updated Graphics blobs and postprocessing blobs
+-Updated DPM blobs from tissot
+]]> </Changelog>
+</ROM>
